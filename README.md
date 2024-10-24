@@ -52,7 +52,7 @@ The **Smart Home Assistant** is an event-driven IoT platform designed to monitor
 
    ```bash
 
-   git clone https://github.com/ayubahmed0/launchpadsmart-home-assistant.git
+   git clone https://github.com/AyubAhmed0/launchpad-smart-home-assistant-project.git
    cd launchpad_smart-home-assistant
 
    ```
