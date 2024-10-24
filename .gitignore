@@ -9,5 +9,4 @@ logs
 # Environment variables
 .env
 
-# Docker files
-docker-compose.yml
+
