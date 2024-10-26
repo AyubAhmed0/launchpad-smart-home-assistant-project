@@ -71,12 +71,15 @@ The **Smart Home Assistant** is an event-driven IoT platform designed to monitor
 
    ```
 Ensure all services are listed as Up.
+
 4. **View logs for Server and the two external devices:**
    
    ```bash
 
    docker-compose logs -f server
+   
    docker-compose logs -f light_bulb
+   
    docker-compose logs -f energy_tracker
 
    ```
