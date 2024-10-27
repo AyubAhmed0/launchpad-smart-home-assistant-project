@@ -328,7 +328,6 @@ Open another terminal window and publish an event to test_device_10
 
   ```json
     data: {"topic":"devices/test_device_10/data","message":"{\"status\":\"OFF\"}"}
-
   ```
 
 ### 🌐 **Health Check**
@@ -352,7 +351,6 @@ Open another terminal window and publish an event to test_device_10
   {
     Server is running
   }
-
   ```
 
 ## 📸 Screenshots
