@@ -158,7 +158,7 @@ describe('Devices API', () => {
 
     expect(response.statusCode).toBe(200);
     expect(response.body).toEqual({
-      message: `Command 'turn_on' sent to device test_device_1`,
+      message: `Command 'turn_on' sent to device test_device_1. Status updated to 'active'.`,
     });
 
     // Verify that the MQTT client's publish method was called
